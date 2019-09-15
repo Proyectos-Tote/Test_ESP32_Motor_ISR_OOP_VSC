@@ -6,7 +6,7 @@ El código fuente del programa principal está en la carpeta 'src'.
 
 Te harán falta dos librerías adicionales: 
 
-  ToteESP32MotorTimer, que está aquí: https://github.com/MisLibrerias/ToteESP32MotorTimer 
+  ToteESP32MotorTimer, que está aquí: https://github.com/MisLibrerias/ToteESP32MotorTimer
   ToteESP32TimerIsr, que está aquí: https://github.com/MisLibrerias/ToteESP32TimerIsr
   
   ToteESP32MotorTimer es una clase especializada de ToteESP32TimerIsr, por lo que tendrás que editar el archivo 'ToteESP32MotorTimer.cpp' para ajustar la ruta en donde te hayas descargado la librería 'ToteESPTimerIsr' (Que es su clase base).
