@@ -11,5 +11,5 @@ Te harán falta dos librerías adicionales:
   
   ToteESP32MotorTimer es una clase especializada de ToteESP32TimerIsr, por lo que tendrás que editar el archivo 'ToteESP32MotorTimer.cpp' para ajustar la ruta en donde te hayas descargado la librería 'ToteESPTimerIsr' (Que es su clase base).
   
-  De la misma forma, deberás editar el programa principal 'Test_ESP32_Motor_ISR_OOP_VSC', que está en la carpeta 'src' y ajustar el include de la clase 'ToteESP32MotorTimer' a la ruta donde te lo hayas descargado.
+  De la misma forma, deberás editar el programa principal 'Test_ESP32_Motor_ISR_OOP_VSC', que está en la carpeta 'src' y ajustar el include de la clase 'ToteESP32MotorTimer' a la ruta donde la hayas descargado.
   
